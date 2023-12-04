@@ -5,7 +5,8 @@ This website is powered by Jekyll and some Bootstrap, Bootwatch.
 
 ## Install
 
-Clone this repository.
+[Clone](https://github.com/quentinglorieux/NanoLab.git) this repository.
+
 Install Jekyll (see [here](https://jekyllrb.com/docs/installation/)).
 Go to your folder and run `bundle exec jekyll serve`
 Your demo site is available at [http://localhost:4000](http://localhost:4000)
