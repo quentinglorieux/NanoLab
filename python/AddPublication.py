@@ -54,8 +54,8 @@ def get_single_paper(doi):
     json_string = json.dumps(data, indent=2)
 
     # Save the JSON string to a file
-    with open("../_data/publications/last_add.json", "w") as file:
-        file.write(json_string)
+    # with open("../_data/publications/last_add.json", "w") as file:
+    #     file.write(json_string)
 
     with open("../_data/publications/full_list_openalex.json", 'r') as file:
         current_data = json.load(file)
