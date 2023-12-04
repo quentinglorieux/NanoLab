@@ -4,6 +4,8 @@ import json
 import pandas as pd
 import re
 import sys
+import yaml
+
 
 
 pyalex.config.email = "quentin.glorieux@lkb.upmc.fr"
@@ -108,8 +110,12 @@ def export_data(df):
     json_string = json.dumps(author_pub_list, indent=2)
 
     # Save the JSON string to a file
-    with open("../_data/publications/full_list_openalex.json", "w") as file:
-        file.write(json_string)
+    # with open("../_data/publications/full_list_openalex.json", "w") as file:
+    #     file.write(json_string)
+    with open('../_data/publications/full_list_openalex.yaml', 'w') as file:
+        yaml.dump(author_pub_list, file, default_flow_style=False , sort_keys=False)
+
+
 
 
 

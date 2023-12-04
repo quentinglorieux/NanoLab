@@ -3,6 +3,7 @@ import pyalex
 import json
 import sys
 import re
+import yaml
 
 
 pyalex.config.email = "quentin.glorieux@lkb.upmc.fr"
@@ -51,17 +52,19 @@ def get_single_paper(doi):
     paper = Works()[doi]
     data = [extract_single_info(paper)]
 
-    json_string = json.dumps(data, indent=2)
+    # json_string = json.dumps(data, indent=2)
 
     # Save the JSON string to a file
     # with open("../_data/publications/last_add.json", "w") as file:
     #     file.write(json_string)
+    # with open('../_data/publications/output.yaml', 'w') as file:
+    #     yaml.dump(data, file, default_flow_style=False , sort_keys=False)
 
-    with open("../_data/publications/full_list_openalex.json", 'r') as file:
-        current_data = json.load(file)
+    with open("../_data/publications/full_list_openalex.yaml", 'r') as file:
+        current_data = yaml.safe_load(file)
         new_data = data + current_data
-    with open("../_data/publications/full_list_openalex.json", 'w') as file:
-        json.dump(new_data, file, indent=2)
+    with open("../_data/publications/full_list_openalex.yaml", 'w') as file:
+        yaml.dump(new_data, file, default_flow_style=False , sort_keys=False)
 
 
 def main():
