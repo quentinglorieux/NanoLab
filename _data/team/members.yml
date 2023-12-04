@@ -1,0 +1,88 @@
+- name: Hanna Le Jeannic
+  tagline: Quantum Hanna
+  photo: Hanna.png
+  info: CNRS Researcher
+  status: PI
+  email: hanna.lejeannic@lkb.upmc.fr
+  education1: Postdoc at NBI (Peter Lodhal group)
+  education2: PhD at LKB (Laurat group)
+  education3: MSc at ESPCI
+  
+- name: Quentin Glorieux
+  tagline: Infrared monkey
+  photo: Glorieux.jpg
+  info: Associate Professor
+  status: PI
+  email: quentin.glorieux@lkb.upmc.fr
+
+  education2: "[IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/1855-quentin-glorieux.html) Junior Fellow since 2018"
+  education3: Marie Curie Postdoc at NIST (Bill Phillips group)
+  education4: PhD at Paris Diderot (Thomas Coudreau)
+  education5: MSc at Institut d'Optique
+
+- name: Alberto Bramati
+  tagline: Italian Godfather
+  photo: Alberto.jpg
+  info: Full Professor
+  status: PI
+  email: alberto.bramati@lkb.upmc.fr
+  education1: IUF Senior Fellow since 2018 
+  education2: Postdoc at LPL
+  education3: PhD at LKB
+
+
+- name: Marianna D'Amato
+  tagline: Colormaps and cycling maniac
+  photo: 
+  info: Postdoc, since 2023
+  status: postdoc
+  email: tangui.aladjidi@lkb.upmc.fr
+  education1: PhD at LKB, Paris
+  education2: MSc at Ecole Polytechnique
+
+- name: Chengjie Ding
+  tagline: Nanofiber artist
+  photo: Chengjie.jpg
+  info: Postdoc, since 2023
+  status: postdoc
+  email: chengjie.ding@lkb.upmc.fr
+  education1: PhD at LKB, Paris
+  education2: BSc at ECNU, Shanghai
+
+
+
+- name: Althea Housset
+  photo: 
+  info: PhD Student, started October 2022
+  status: phd
+  email: b
+  education1: MSc at ETH Zurich
+  education2: BSc at Ecole Polytechnique
+
+
+
+
+
+- name: "This could be you !"
+  photo: bottle.png
+  info: See <a href="/vacancies">openings</a> for more info
+  status: phd
+  email: milan.allan@gmail.com
+  education1:
+  education2:
+  education3:
+
+- name: Quentin Schibler
+  status: student
+  photo: 
+  info: MSc - Topic 1
+  email: 
+  education1:  ENS Paris Saclay
+
+- name: Simon Lepleux
+  status: student
+  photo: 
+  info: MSc - Topic 2
+  email: 
+  education1: ENS Paris Saclay
+
