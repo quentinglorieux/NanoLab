@@ -1,7 +1,6 @@
-# Quantum Fluids of Light Lab Website
+# Rubidium Website
 
-This is the website of our academic research group at Leiden University.
-
+This is the website of our academic research group at Sorbonne University.
 This website is powered by Jekyll and some Bootstrap, Bootwatch. 
 
 ## Install
