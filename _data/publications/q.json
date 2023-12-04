@@ -1,0 +1,41 @@
+{
+  "title": "Quantum correlations by four-wave mixing in an atomic vapor in a nonamplifying regime: Quantum beam splitter for photons",
+  "link": {
+    "url": "https://doi.org/10.1103/physreva.84.053826",
+    "authors": [
+      {
+        "name": "Quentin Glorieux",
+        "orcid": "https://orcid.org/0000-0003-0903-0233"
+      },
+      {
+        "name": "Luca Guidoni",
+        "orcid": null
+      },
+      {
+        "name": "S. Guibal",
+        "orcid": null
+      },
+      {
+        "name": "Jean-Pierre Likforman",
+        "orcid": "https://orcid.org/0000-0002-8879-7813"
+      },
+      {
+        "name": "Thomas Coudreau",
+        "orcid": null
+      }
+    ],
+    "display": "Physical Review A 84 5 (2011)."
+  },
+  "doi": "https://doi.org/10.1103/physreva.84.053826",
+  "is_oa": true,
+  "oa_url": "https://arxiv.org/pdf/1111.4103",
+  "publication_year": 2011,
+  "journal": "Physical Review A",
+  "journal_abbreviation": "",
+  "biblio": {
+    "volume": "84",
+    "issue": "5",
+    "first_page": null,
+    "last_page": null
+  }
+}
