@@ -1,3 +1,30 @@
+- title: Temporally multiplexed storage of images in a gradient echo memory
+  authors:
+  - name: Quentin Glorieux
+    orcid: https://orcid.org/0000-0003-0903-0233
+  - name: J. B. Clark
+    orcid: null
+  - name: Alberto M. Marino
+    orcid: https://orcid.org/0000-0001-5377-1122
+  - name: Zhiqiang Zhou
+    orcid: https://orcid.org/0000-0001-6323-6756
+  - name: Paul D. Lett
+    orcid: https://orcid.org/0000-0002-7929-5547
+  link:
+    url: https://doi.org/10.1364/oe.20.012350
+    display: Optics Express 20 11 (2012).
+  doi: https://doi.org/10.1364/oe.20.012350
+  is_oa: true
+  oa_url: https://doi.org/10.1364/oe.20.012350
+  publication_year: 2012
+  journal: Optics Express
+  journal_abbreviation: ''
+  biblio:
+    volume: '20'
+    issue: '11'
+    first_page: '12350'
+    last_page: '12350'
+
 - title: 'Quantum correlations by four-wave mixing in an atomic vapor in a nonamplifying
     regime: Quantum beam splitter for photons'
   authors:
@@ -25,6 +52,7 @@
     issue: '5'
     first_page: null
     last_page: null
+
 - title: Highly Photostable Zn-Treated Halide Perovskite Nanocrystals for Efficient
     Single Photon Generation
   authors:
@@ -60,6 +88,7 @@
     issue: '22'
     first_page: '10228'
     last_page: '10235'
+
 - title: "Dynamical photon\u2013photon interaction mediated by a quantum emitter"
   authors:
   - name: Hanna Le Jeannic
@@ -104,6 +133,7 @@
     issue: '10'
     first_page: '1191'
     last_page: '1195'
+
 - title: Chiral quantum optics in broken-symmetry and topological photonic crystal
     waveguides
   authors:
@@ -131,6 +161,7 @@
     issue: '2'
     first_page: null
     last_page: null
+
 - title: A quantum-bit encoding converter
   authors:
   - name: Tom Darras
@@ -159,6 +190,7 @@
     issue: '2'
     first_page: '165'
     last_page: '170'
+
 - title: "Publisher Correction: Dynamical photon\u2013photon interaction mediated\
     \ by a quantum emitter"
   authors:
@@ -204,6 +236,7 @@
     issue: '11'
     first_page: '1379'
     last_page: '1379'
+
 - title: Experimental Reconstruction of the Few-Photon Nonlinear Scattering Matrix
     from a Single Quantum Dot in a Nanophotonic Waveguide
   authors:
@@ -243,6 +276,7 @@
     issue: '2'
     first_page: null
     last_page: null
+
 - title: Experimental Fock-state bunching capability of non-ideal single-photon states
   authors:
   - name: Petr Zapletal
@@ -273,6 +307,7 @@
     issue: '5'
     first_page: '743'
     last_page: '743'
+
 - title: Connecting heterogeneous quantum networks by hybrid entanglement swapping
   authors:
   - name: Giovanni Guccione
@@ -303,6 +338,7 @@
     issue: '22'
     first_page: null
     last_page: null
+
 - title: Coherent nonlinear optics of quantum emitters in nanophotonic waveguides
   authors:
   - name: "Pierre T\xFCrschmann"
@@ -335,6 +371,7 @@
     issue: '10'
     first_page: '1641'
     last_page: '1657'
+
 - title: Engineering optical hybrid entanglement between discrete- and continuous-variable
     states
   authors:
@@ -366,6 +403,7 @@
     issue: '8'
     first_page: 083033
     last_page: 083033
+
 - title: Quantum Optics with Near-Lifetime-Limited Quantum-Dot Transitions in a Nanophotonic
     Waveguide
   authors:
@@ -415,6 +453,7 @@
     issue: '3'
     first_page: '1801'
     last_page: '1806'
+
 - title: Remote preparation of continuous-variable qubits using loss-tolerant hybrid
     entanglement of light
   authors:
@@ -442,6 +481,7 @@
     issue: '8'
     first_page: '1012'
     last_page: '1012'
+
 - title: Demonstration of Einstein-Podolsky-Rosen Steering Using Hybrid Continuous-
     and Discrete-Variable Entanglement of Light
   authors:
@@ -479,6 +519,7 @@
     issue: '17'
     first_page: null
     last_page: null
+
 - title: Slowing Quantum Decoherence by Squeezing in Phase Space
   authors:
   - name: Hanna Le Jeannic
@@ -505,6 +546,7 @@
     issue: '7'
     first_page: null
     last_page: null
+
 - title: High-efficiency WSi superconducting nanowire single-photon detectors for
     quantum state engineering in the near infrared
   authors:
@@ -540,6 +582,7 @@
     issue: '22'
     first_page: '5341'
     last_page: '5341'
+
 - title: 'Experimental quantum state engineering with time-separated heraldings from
     a continuous-wave light source: A temporal-mode analysis'
   authors:
@@ -577,6 +620,7 @@
     issue: '1'
     first_page: null
     last_page: null
+
 - title: Optical Synthesis of Large-Amplitude Squeezed Coherent-State Superpositions
     with Minimal Resources
   authors:
@@ -620,6 +664,7 @@
     issue: '2'
     first_page: null
     last_page: null
+
 - title: Remote creation of hybrid entanglement between particle-like and wave-like
     optical qubits
   authors:
@@ -649,6 +694,7 @@
     issue: '7'
     first_page: '570'
     last_page: '574'
+
 - title: Microcontroller-based locking in optics experiments
   authors:
   - name: Kun Huang
@@ -675,6 +721,7 @@
     issue: '12'
     first_page: null
     last_page: null
+
 - title: A monolithically integrated polarization entangled photon pair source on
     a silicon chip
   authors:
@@ -710,3 +757,4 @@
     issue: '1'
     first_page: null
     last_page: null
+

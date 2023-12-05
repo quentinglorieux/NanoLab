@@ -1,3 +1,16 @@
+#   TEMPLATE:
+#
+# - name: Hanna Le Jeannic
+#   tagline: Quantum Hanna
+#   photo: Hanna.png
+#   info: CNRS Researcher
+#   status: PI/phd/postdoc/student (use these tags only)
+#   email: hanna.lejeannic@lkb.upmc.fr
+#   education1: Postdoc at NBI (Peter Lodhal group)
+#   education2: PhD at LKB (Laurat group)
+#   education3: MSc at ESPCI
+#   [up to 5 educations maximum]
+  
 - name: Hanna Le Jeannic
   tagline: Quantum Hanna
   photo: Hanna.png
@@ -5,7 +18,7 @@
   status: PI
   email: hanna.lejeannic@lkb.upmc.fr
   education1: Postdoc at NBI (Peter Lodhal group)
-  education2: PhD at LKB (Laurat group)
+  education2: PhD at LKB (Julien Laurat group)
   education3: MSc at ESPCI
   
 - name: Quentin Glorieux
@@ -14,7 +27,6 @@
   info: Associate Professor
   status: PI
   email: quentin.glorieux@lkb.upmc.fr
-
   education2: "[IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/1855-quentin-glorieux.html) Junior Fellow since 2018"
   education3: Marie Curie Postdoc at NIST (Bill Phillips group)
   education4: PhD at Paris Diderot (Thomas Coudreau)
@@ -29,7 +41,6 @@
   education1: IUF Senior Fellow since 2018 
   education2: Postdoc at LPL
   education3: PhD at LKB
-
 
 - name: Marianna D'Amato
   tagline: Colormaps and cycling maniac
@@ -50,7 +61,6 @@
   education2: BSc at ECNU, Shanghai
 
 
-
 - name: Althea Housset
   photo: 
   info: PhD Student, started October 2022
@@ -58,10 +68,6 @@
   email: b
   education1: MSc at ETH Zurich
   education2: BSc at Ecole Polytechnique
-
-
-
-
 
 - name: "This could be you !"
   photo: bottle.png
